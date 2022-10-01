@@ -1,0 +1,2 @@
+# bul
+puştları bulma
